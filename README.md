@@ -1,5 +1,6 @@
 # Cpastone-Project
-Machine learning project to find prices of used car
+Machine learning project to find prices of used car.
+For better use watch files after downloading
 
 ## Part 01
 - Analysis of Data using python
